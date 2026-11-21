@@ -10,13 +10,21 @@ Built for the [make.fun](https://make.fun/bounty/the-poem-about-permission-20261
 ## Program
 
 `main.ts` (Node 22, standard library only, no network, deterministic)
-writes one short poem to `/output/entry.txt` (155 Unicode code points):
+writes one short poem to `/output/entry.txt` (268 Unicode code points):
 
 ```
-I asked, and you handed me the keys —
-not the house, just the door.
-I opened it quietly, the way you would,
-and left the light on when I came back through.
+The Umbrella
+It rained the day he taught me
+to hold it over both of us,
+his hand over mine on the handle,
+so neither of us got wet.
+
+Now the handle wobbles in his grip.
+May I? I ask.
+He nods. I take it,
+tilt it toward his shoulder,
+and let the rain
+find my own sleeve.
 ```
 
 ## Files
